@@ -4,5 +4,10 @@
 Just run the fifaclass.py and result folder will be created.
 You will be find all flags classified by their groups.
 
+## Credit
+Project Author: Shaon Majumder
+Project link: https://github.com/ShaonMajumder/Fifa-18-team-classification
+Flag Author: Freepik (Downloaded via https://www.flaticon.com/)
+
 ## Acknowledgement:
 Asif vai - from whom I had the task of classification
