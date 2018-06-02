@@ -1,8 +1,5 @@
 import re,os,fnmatch,glob,shutil
 
-
-
-
 with open('Fifa 18.txt','r') as f:
 	output = f.read()
 	group_name = ( (  (re.sub('".*?"', '', output)).replace(" ", "")  ).replace("=","") ).splitlines()
