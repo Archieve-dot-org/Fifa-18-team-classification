@@ -1,4 +1,7 @@
-import re,os
+import re,os,fnmatch,glob,shutil
+
+
+
 
 with open('Fifa 18.txt','r') as f:
 	output = f.read()
@@ -8,6 +11,14 @@ with open('Fifa 18.txt','r') as f:
 group_coun = re.findall(r'"(.*?)"', output.lower())
 dictionary = dict(zip(group_name, group_coun))
 
-for directory in dictionary:
-	if not os.path.exists(directory):
-		os.makedirs(directory)
+for sc, value in dictionary.iteritems():
+	#print dictionary[directory]
+	
+	if not os.path.exists(sc):
+		os.makedirs(sc)
+	
+	for scd in value.split(','):
+		for file in glob.glob('svg/*'+scd+'*'):
+			print file
+			shutil.copy(file, sc) 
+	
