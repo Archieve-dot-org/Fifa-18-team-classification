@@ -1,0 +1,5 @@
+Africa = "Egypt,Morocco,Nigeria,Senegal,Tunisia"
+Asia = "Australia,IR Iran,Japan,Korea,saudi-arabia,
+Europe = "Belgium,Croatia,Denmark,England,France,Germany,Iceland,Poland,Portugal,Russia,Serbia,Spain,Sweden,Switzerland,
+North_Central_America_and_Caribbean = "costa-rica,Mexico,Panama,
+South_america = "Argentina,Brazil,Colombia,Peru,Uruguay"
