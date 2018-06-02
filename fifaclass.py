@@ -14,11 +14,13 @@ dictionary = dict(zip(group_name, group_coun))
 for sc, value in dictionary.iteritems():
 	#print dictionary[directory]
 	
-	if not os.path.exists(sc):
-		os.makedirs(sc)
-	
+	if os.path.exists(sc):
+		shutil.rmtree(sc)
+		
+	os.makedirs(sc)	
+
+
 	for scd in value.split(','):
 		for file in glob.glob('svg/*'+scd+'*'):
 			print file
-			shutil.copy(file, sc) 
-	
+			shutil.copy(file, sc)
