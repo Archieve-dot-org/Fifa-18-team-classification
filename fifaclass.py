@@ -19,5 +19,4 @@ for sc, value in dictionary.iteritems():
 
 	for scd in value.split(','):
 		for file in glob.glob('svg/*'+scd+'*'):
-			print file
 			shutil.copy(file, 'result/'+sc)
