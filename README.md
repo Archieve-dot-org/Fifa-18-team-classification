@@ -7,7 +7,8 @@
 ## Credit
 	Project Author: Shaon Majumder  
 	Project link: https://github.com/ShaonMajumder/Fifa-18-team-classification  
-	Flag Author: Freepik (Downloaded via https://www.flaticon.com/)  
+	Flag Author: Freepik (Downloaded via https://www.flaticon.com/)
+	Information about Teams: http://www.fifa.com/worldcup/teams/index.html
 
 ## Acknowledgement:
 	Asif vai - from whom I had the task of classification
