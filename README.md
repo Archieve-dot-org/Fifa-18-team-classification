@@ -12,7 +12,7 @@
 	at this blog post - [বিশ্বকাপের হট্টগোল প্রজেক্ট]
 
 ## Credit
-	Project Author [Shaon Majumder][2]
+Project Author [Shaon Majumder]
 	Project link: https://github.com/ShaonMajumder/Fifa-18-team-classification  
 	Flag Author: Freepik (Downloaded via https://www.flaticon.com/)
 	Information about Teams: http://www.fifa.com/worldcup/teams/index.html
@@ -20,4 +20,4 @@
 ## Acknowledgement:
 	Asif vai - from whom I had the task of classification
 
-[2]: https://www.linkedin.com/in/shaonmajumder/
+[Shaon Majumder]: https://www.linkedin.com/in/shaonmajumder/
