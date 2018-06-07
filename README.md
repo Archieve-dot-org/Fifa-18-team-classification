@@ -11,7 +11,7 @@
 	I have written a blog post describing the methods and behind the stories of the whole projectat this blog post - 
 &nbsp;&nbsp;&nbsp;&nbsp;[বিশ্বকাপের হট্টগোল প্রজেক্ট](http://blog.robist.com/?p=1206 "Read at ROBIST লেখক")
 ## Credit
-	Project Author: Shaon Majumder  
+	Project Author: [Shaon Majumder](https://www.linkedin.com/in/shaonmajumder)
 	Project link: https://github.com/ShaonMajumder/Fifa-18-team-classification  
 	Flag Author: Freepik (Downloaded via https://www.flaticon.com/)
 	Information about Teams: http://www.fifa.com/worldcup/teams/index.html
