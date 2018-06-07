@@ -21,6 +21,6 @@
 	Asif vai - from whom I had the task of classification
 
 ## Contact
-[![Linkedin](https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-256.png)](https://www.linkedin.com/in/shaonmajumder)
+[![Linkedin](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF0H3Qd1Ap3svgA2-V4Vs1fz-fLuaJLq6E654t4xfGD16oJkRITg)](https://www.linkedin.com/in/shaonmajumder)
 [![facebook](https://cdn0.iconfinder.com/data/icons/yooicons_set01_socialbookmarks/128/social_facebook_button_blue.png)](https://www.facebook.com/shaon.majumder)
 [![twitter](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1jBXomsPewdutBtsxaU8Nd1rz-i2bP-xLY2tVc5kbiqHa7nfl_A)](https://twitter.com/Shaon_Mazoomder)
