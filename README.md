@@ -16,6 +16,6 @@
 	Project link: https://github.com/ShaonMajumder/Fifa-18-team-classification  
 	Flag Author: Freepik (Downloaded via https://www.flaticon.com/)
 	Information about Teams: http://www.fifa.com/worldcup/teams/index.html
-[Shaon Majumder]: https://www.linkedin.com/in/shaonmajumder
+[Shaon Majumder]: (https://www.linkedin.com/in/shaonmajumder)
 ## Acknowledgement:
 	Asif vai - from whom I had the task of classification
