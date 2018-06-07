@@ -5,7 +5,7 @@
 	You will be find all flags classified by their groups in the newly generated "Result" folder.
 ## Blog Post
 	I have written a blog post describing the methods and behind the stories of the whole projectat this blog post - 
-[বিশ্বকাপের হট্টগোল প্রজেক্ট](http://blog.robist.com/?p=1206)
+[বিশ্বকাপের হট্টগোল প্রজেক্ট](http://blog.robist.com/?p=1206 "Read at ROBIST লেখক")
 ## Credit
 	Project Author: Shaon Majumder  
 	Project link: https://github.com/ShaonMajumder/Fifa-18-team-classification  
