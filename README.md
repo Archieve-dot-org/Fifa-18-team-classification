@@ -22,5 +22,5 @@
 
 ## Contact
 [Linkedin](https://www.linkedin.com/in/shaonmajumder)
-[facebook]:(https://www.facebook.com/shaon.majumder)
-[twitter]:(https://twitter.com/Shaon_Mazoomder)
+[facebook](https://www.facebook.com/shaon.majumder)
+[twitter](https://twitter.com/Shaon_Mazoomder)
