@@ -1,8 +1,8 @@
 # FIFA 18 Team Classification । বিশ্বকাপের হট্টগোল প্রজেক্ট
 ## Task
 	Classify the flag files of the participating countries in Fifa 18 in according to their group.
-	Group Information is in the file - *Fifa 18.txt*.
-	Countries' Flag is in the *svg* folder
+	Group Information is in the file - **Fifa 18.txt**.
+	Countries' Flag is in the **svg** folder
 ## How to use
 	Just run the fifaclass.py and result folder will be created.  
 	You will be find all flags classified by their groups in the newly generated "Result" folder.
