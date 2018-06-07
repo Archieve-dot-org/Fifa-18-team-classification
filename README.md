@@ -19,5 +19,3 @@
 [Shaon Majumder]: https://www.linkedin.com/in/shaonmajumder
 ## Acknowledgement:
 	Asif vai - from whom I had the task of classification
-
-[বিশ্বকাপের হট্টগোল প্রজেক্ট]: http://blog.robist.com/?p=1206
