@@ -22,5 +22,5 @@
 
 ## Contact
 [![Linkedin](https://content.linkedin.com/content/dam/brand/site/img/visual-guidelines.png)](https://www.linkedin.com/in/shaonmajumder)
-[![facebook](https://facebookbrand.com/wp-content/themes/fb-branding/prj-fb-branding/assets/images/fb-art.png)](https://www.facebook.com/shaon.majumder)
+[![facebook](https://cdn1.iconfinder.com/data/icons/logotypes/32/square-facebook-256.png)](https://www.facebook.com/shaon.majumder)
 [![twitter](https://help.twitter.com/content/dam/help-twitter/twitter-logo.png)](https://twitter.com/Shaon_Mazoomder)
