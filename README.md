@@ -21,6 +21,6 @@
 	Asif vai - from whom I had the task of classification
 
 ## Contact
-[![Linkedin](https://content.linkedin.com/content/dam/brand/site/img/visual-guidelines.png)](https://www.linkedin.com/in/shaonmajumder)
+[![Linkedin](https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-256.png)](https://www.linkedin.com/in/shaonmajumder)
 [![facebook](https://cdn1.iconfinder.com/data/icons/logotypes/32/square-facebook-256.png)](https://www.facebook.com/shaon.majumder)
 [![twitter](https://png.icons8.com/cotton/2x/twitter.png)](https://twitter.com/Shaon_Mazoomder)
