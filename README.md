@@ -23,4 +23,4 @@
 ## Contact
 [![Linkedin](https://content.linkedin.com/content/dam/brand/site/img/visual-guidelines.png)](https://www.linkedin.com/in/shaonmajumder)
 [![facebook](https://cdn1.iconfinder.com/data/icons/logotypes/32/square-facebook-256.png)](https://www.facebook.com/shaon.majumder)
-[![twitter](https://help.twitter.com/content/dam/help-twitter/twitter-logo.png)](https://twitter.com/Shaon_Mazoomder)
+[![twitter](https://png.icons8.com/cotton/2x/twitter.png)](https://twitter.com/Shaon_Mazoomder)
