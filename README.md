@@ -1,11 +1,11 @@
-# FIFA 18 Participating team flag classification
+# FIFA 18 Participating team flag classification । বিশ্বকাপের হট্টগোল প্রজেক্ট
 
 ## How to use
 	Just run the fifaclass.py and result folder will be created.  
 	You will be find all flags classified by their groups in the newly generated "Result" folder.
 ## Blog Post
-	I have written a blog post describing the methods and behind the stories of the whole project
-at this [blog post](http://blog.robist.com/?p=1206)
+	I have written a blog post describing the methods and behind the stories of the whole projectat this blog post - 
+[বিশ্বকাপের হট্টগোল প্রজেক্ট](http://blog.robist.com/?p=1206)
 ## Credit
 	Project Author: Shaon Majumder  
 	Project link: https://github.com/ShaonMajumder/Fifa-18-team-classification  
