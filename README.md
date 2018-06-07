@@ -1,9 +1,10 @@
-# FIFA 18 Participating team flag classification । বিশ্বকাপের হট্টগোল প্রজেক্ট
-
+# FIFA 18 Team Classification । বিশ্বকাপের হট্টগোল প্রজেক্ট
+## Task
+	Classify the files in order of their group
 ## How to use
 	Just run the fifaclass.py and result folder will be created.  
 	You will be find all flags classified by their groups in the newly generated "Result" folder.
-## [বিশ্বকাপের হট্টগোল প্রজেক্ট](http://blog.robist.com/?p=1206 "Read at ROBIST লেখক")
+## [Blog Post - বিশ্বকাপের হট্টগোল প্রজেক্ট](http://blog.robist.com/?p=1206 "Read at ROBIST লেখক")
 	I have written a blog post describing the methods and behind the stories of the whole projectat this blog post - 
 &nbsp;&nbsp;&nbsp;&nbsp;[বিশ্বকাপের হট্টগোল প্রজেক্ট](http://blog.robist.com/?p=1206 "Read at ROBIST লেখক")
 ## Credit
